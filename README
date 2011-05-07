@@ -7,6 +7,16 @@ To exchange names of two files or folders, execute:
 swap FILE1 FILE2
 
 
+Downloading
+===========
+To download from source,
+
+git clone git://github.com/ahmetalpbalkan/swap.git
+cd swap
+
+and then proceed to Installation.
+
+
 Installation
 ============
 make
